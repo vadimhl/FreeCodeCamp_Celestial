@@ -1,1 +1,1 @@
-# Celestial Bodies Database project for FreeCodeCamp Relational Database course.
+### Celestial Bodies Database project for FreeCodeCamp Relational Database course.
